@@ -1,0 +1,6 @@
+Base path: 'D:/Arquivos de Programas D/Unity/Hub/Editor/2021.2.3f1/Editor/Data', plugins path 'D:/Arquivos de Programas D/Unity/Hub/Editor/2021.2.3f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+
+Cmd: disassembleShader
+ name=Sprites/Default platform=d3d11 type=17 mask=6 insize=454 outsize=1082 ok=1
+
